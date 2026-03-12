@@ -14,15 +14,17 @@ namespace Core.Services
             _userRepo = userRepo;
         }
 
-        public void Register(string username, string password)
+        public User? Register(string username, string password)
         {
+            if (_userRepo.GetByUsername(username) != null)
+                return null;
             var user = new User
             {
                 Username = username,
                 Password = password
             };
-
             _userRepo.Add(user);
+            return user;
         }
 
         public User? Login(string username, string password)

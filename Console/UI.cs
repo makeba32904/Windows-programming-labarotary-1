@@ -7,7 +7,7 @@ public class UI
     private readonly AuthService _authService;
     private readonly PostService _postService;
     private readonly CommentService _commentService;
-    private User _currentUser;
+    private User? _currentUser;
 
     public UI(AuthService authService, PostService postService, CommentService commentService)
     {
@@ -281,7 +281,7 @@ public class UI
         Console.Write("Write your comment: ");
         var content = Console.ReadLine();
 
-        _commentService.AddComment(selectedPost, _currentUser, content);
+        _commentService.AddComment(selectedPost.Id, _currentUser.Id, content);
 
         Console.WriteLine("Comment added!");
         Console.ReadKey();

@@ -17,7 +17,7 @@ namespace Core.Services
         }
         public void AddComment(Guid postId, Guid userId, string text)
         {
-            var post = _postRepository.GetById(postId)
+            var post = _postRepository.GetById(postId);
             if (post == null)
             {
                 Console.WriteLine("Post not found.");
