@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amka3\\source\\repos\\InstaFace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C074499-B055-7471-2414-75766D22C168}|Console\\Console.csproj|c:\\users\\amka3\\source\\repos\\instaface\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C074499-B055-7471-2414-75766D22C168}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C074499-B055-7471-2414-75766D22C168}|Console\\Console.csproj|c:\\users\\amka3\\source\\repos\\instaface\\console\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C074499-B055-7471-2414-75766D22C168}|Console\\Console.csproj|solutionrelative:console\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\services\\followservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\interfaces\\ifollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ifollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\interfaces\\icommenting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\interfaces\\icommenting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\interfaces\\iliking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iliking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FollowService.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\FollowService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\FollowService.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\FollowService.cs",
+              "RelativeToolTip": "Core\\Services\\FollowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:18:04.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\PostService.cs",
+              "RelativeToolTip": "Core\\Services\\PostService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:16:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:14:41.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Console\\UI.cs",
+              "RelativeDocumentMoniker": "Console\\UI.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Console\\UI.cs",
+              "RelativeToolTip": "Console\\UI.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAewCABAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:09:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:56:51.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\CommentService.cs",
+              "RelativeToolTip": "Core\\Services\\CommentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:17:24.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\ICommentRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:14:04.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:06:48.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\Comment.cs",
+              "RelativeToolTip": "Core\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:03:46.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:12:42.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:13:23.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Core\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:07:40.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "Core\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:08:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\Post.cs",
+              "RelativeToolTip": "Core\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:03:11.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:02:38.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFollow.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Interfaces\\IFollow.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IFollow.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Interfaces\\IFollow.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:02:15.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICommenting.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Interfaces\\ICommenting.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICommenting.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Interfaces\\ICommenting.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICommenting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:00:58.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILiking.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Interfaces\\ILiking.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ILiking.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Interfaces\\ILiking.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ILiking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:59:28.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T14:58:29.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
