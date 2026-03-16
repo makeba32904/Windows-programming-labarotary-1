@@ -112,7 +112,7 @@ public class UI
     }
     private void ShowSocialMenu()
     {
-        string[] options = { "CREATE POST", "VIEW", "COMMENT", "LOGOUT" };
+        string[] options = { "CREATE POST", "VIEW", "COMMENT", "LIKE", "LOGOUT" };
         int selectedIndex = 0;
 
         while (true)
@@ -142,6 +142,9 @@ public class UI
                         CommentOnPost();
                         break;
                     case 3:
+                        LikePost();
+                        break;
+                    case 4:
                         _currentUser = null;
                         return;
                 }
@@ -286,6 +289,33 @@ public class UI
         Console.WriteLine("Comment added!");
         Console.ReadKey();
     }
+    private void LikePost()
+    {
+        Console.Clear();
+        var posts = _postService.GetFeed();
+        if (posts.Count == 0)
+        {
+            Console.WriteLine("No posts available.");
+            Console.ReadKey();
+            return;
+        }
+        for (int i = 0; i < posts.Count; i++)
+        {
+            Console.WriteLine($"{i + 1}. {GetUsername(posts[i].AuthorId)}: {posts[i].Content}");
+        }
+        Console.Write("Select post number to like: ");
+        if (!int.TryParse(Console.ReadLine(), out int choice) ||
+            choice < 1 || choice > posts.Count)
+        {
+            Console.WriteLine("Invalid selection.");
+            Console.ReadKey();
+            return;
+        }
+        var selectedPost = posts[choice - 1];
+        _postService.LikePost(selectedPost.Id, _currentUser.Id);
+        Console.WriteLine("Post liked!");
+        Console.ReadKey();
+    }
     private void ViewFeed()
     {
         Console.Clear();
@@ -333,4 +363,5 @@ public class UI
 
         return lines;
     }
+
 }

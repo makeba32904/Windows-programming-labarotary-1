@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\amka3\\source\\repos\\InstaFace\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C074499-B055-7471-2414-75766D22C168}|Console\\Console.csproj|c:\\users\\amka3\\source\\repos\\instaface\\console\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C074499-B055-7471-2414-75766D22C168}|Console\\Console.csproj|solutionrelative:console\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|c:\\users\\amka3\\source\\repos\\instaface\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED06CAD-956C-C94D-BC0C-E89E30A887C2}|Core\\Core.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Console\\UI.cs",
+              "RelativeDocumentMoniker": "Console\\UI.cs",
+              "ToolTip": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Console\\UI.cs",
+              "RelativeToolTip": "Console\\UI.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwJEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:59:03.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\amka3\\source\\repos\\InstaFace\\Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
